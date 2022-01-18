@@ -1,0 +1,38 @@
+{
+    "questionList": [
+        {
+            "question":"Who is the president of New Zealand ?",
+            "option":["Donald Trump","Elizabeth II","Jacinda Ardern","Ram Nath Govind"],
+            "correctAnswer":"Jacinda Ardern",
+            "winningAmount":1000
+        },
+        {
+            
+            "question":"Who is known as God of Cricket ?",
+            "option":["AB de Villiers","Sachin Tendulkar","Yuvraj Singh","Virender Sehwag"],
+            "correctAnswer":"Sachin Tendulkar",
+            "winningAmount":1000
+        },
+        {
+            
+            "question":"Who won the World Test Championship 2021 ?",
+            "option":["India","Australia","England","New Zealand"],
+            "correctAnswer":"New Zealand",
+            "winningAmount":1000
+        },
+        {
+            
+            "question":"Who is the first Indian Olympian to win a gold medal in athletics",
+            "option":["Milkha Singh","Abhinav Bindra","PV Sindhu ","Neeraj Chopra"],
+            "correctAnswer":"Neeraj Chopra",
+            "winningAmount":1000
+        },
+        {
+            
+            "question":"Which team is the most successful team in Indian Premier league(IPL) history in terms of the number of titles won.",
+            "option":["MI","RCB","CSK","KKR"],
+            "correctAnswer":"MI",
+            "winningAmount":1000
+        }
+    ]
+}
